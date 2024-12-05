@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import os
+gfgfgfhfghfg
 from flask import Flask, request, render_template, jsonify
 import cv2
 import pytesseract
