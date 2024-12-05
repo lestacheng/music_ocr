@@ -1,0 +1,9 @@
+setuptools>=65.5.1
+wheel>=0.38.4
+flask==2.0.1
+opencv-python-headless==4.5.3.56
+pytesseract==0.3.8
+music21==7.3.3
+pygame==2.1.2
+Pillow==8.3.2
+numpy==1.21.2

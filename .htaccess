@@ -1,0 +1,4 @@
+cd /Applications/AMPPS/www/music_ocr
+python3 app.pyOptions +ExecCGI
+AddHandler cgi-script .py
+DirectoryIndex app.py
